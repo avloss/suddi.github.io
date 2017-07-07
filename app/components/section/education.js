@@ -3,6 +3,7 @@
 const React = require('react');
 
 const ResumePropTypes = require('../../prop_types/resume');
+const BulletPoints = require('../bullet_points');
 const Datetime = require('../../utils/datetime');
 
 const Entry = React.createClass({
@@ -24,6 +25,7 @@ const Entry = React.createClass({
                         <span> &bull; </span>
                         <em className='date'>{startDate} - {endDate}</em>
                     </p>
+                    <BulletPoints points={this.props.entry.courses}/>
                 </div>
             </div>
         );

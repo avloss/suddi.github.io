@@ -35,7 +35,7 @@ const References = React.createClass({
 
     render: function () {
         const carouselConfig = {
-            autoplay: true,
+            autoplay: false,
             decorators: [],
             framePadding: '10px',
             cellSpacing: 30,

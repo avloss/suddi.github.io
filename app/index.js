@@ -6,9 +6,9 @@ const Routes = require('./routes');
 
 function getResumePath() {
     if (['localhost', '127.0.0.1'].indexOf(window.location.hostname) === -1) {
-        return '/public/resume.json';
+        return '/public/resume.avloss.json';
     }
-    return '/public/resume.example.json';
+    return '/public/resume.avloss.json';
 }
 
 function getNavigation() {
@@ -18,7 +18,7 @@ function getNavigation() {
         work: 'Work',
         education: 'Education',
         skill: 'Skills',
-        portfolio: 'Portfolio',
+        //portfolio: 'Portfolio',
         testimonials: 'References'
     };
 }

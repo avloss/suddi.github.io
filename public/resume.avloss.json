@@ -1,0 +1,360 @@
+{
+    "basics": {
+        "name": "Anton Loss",
+        "label": "Data Engineer",
+        "picture": "public/images/anton_avatar.jpeg",
+        "email": "avl [at] gmx co uk",
+        "phone": "+44 7453 899 230",
+        "website": "https://medium.com/@avloss",
+        "summary": [
+            "Data Engineer, with background in Mathematics",
+            "Interest in Machine Learning with Python",
+            "Worked in start-ups as well as larger companies"
+        ],
+        "location": {
+            "address": "<ADDRESS>",
+            "postalCode": "<POSTAL_CODE>",
+            "city": "London",
+            "countryCode": "United Kingdom",
+            "region": "United Kingdom"
+        },
+        "profiles": [
+            {
+                "network": "Phone",
+                "username": "",
+                "url": "skype:+447453899230"
+            },
+            {
+                "network": "LinkedIn",
+                "username": "avloss",
+                "url": "https://www.linkedin.com/in/avloss"
+            },
+            {
+                "network": "medium",
+                "username": "avloss",
+                "url": "https://medium.com/@avloss"
+            },
+            {
+                "network": "Stack Overflow",
+                "username": "avloss",
+                "url": "https://stackoverflow.com/users/2283175/avloss"
+            },
+            {
+                "network": "GitHub",
+                "username": "avloss",
+                "url": "https://github.com/avloss"
+            },
+            {
+                "network": "Docker",
+                "username": "avloss",
+                "url": "https://hub.docker.com/u/avloss/"
+            },
+            {
+                "network": "Code",
+                "username": "avloss",
+                "url": "https://codefights.com/profile/avloss"
+            },
+            {
+                "network": "Twitter",
+                "username": "avloss",
+                "url": "https://twitter.com/avloss"
+            }
+        ]
+    },
+    "work": [
+        {
+            "company": "Lumiata",
+            "position": "Data Engineer",
+            "website": "http://www.lumiata.com",
+            "startDate": "2016-05-01",
+            "endDate": "2017-03-01",
+            "summary": "London, UK / San Mateo, California, US",
+            "highlights": [
+                "As the only Data Engineer in a Data Science team, I am involved in many aspects of managing data, models, and end-to-end process.",
+                "Setting up TensorFlow Serving using docker, and adding flask on top of it for debugging",
+                "Helping to set-up ScienceOps platform",
+                "Some assistance managing CDH platform",
+                "Some assistance in code restructuring",
+                "Python with PySpark",
+                "Scientific python: pandas, numpy",
+                "Minor assistance with machine learning: scikit-learn, xgboost and others algorithms (other team members were mostly involved with this)",
+                "Some standard Linux server administration and fire-fighting"
+            ]
+        },
+        {
+            "company": "Nexmo",
+            "position": "DevOps Engineer",
+            "website": "http://www.nexmo.com",
+            "startDate": "2015-02-01",
+            "endDate": "2016-05-01",
+            "summary": "London, UK",
+            "highlights": [
+                "Fabric deployment scripts, Jenkins maintenance. Most of the time I was involved in our Hadoop project.",
+                "Scripted Apache Spark in Scala to populate HBase and Parquet tables for further queries",
+                "Set-up Apache Spark, Kafka and Flume for real-time log streams ingestion",
+                "Used EMR + Apache Spark to process large amount of logs to analyze, find inconsistencies and produce reports",
+                "Set-up MapR and Hortonworks distributions of Hadoop to test various possible applications of both platforms"
+            ]
+        },
+        {
+            "company": "Nexmo",
+            "position": "Support QA Engineer",
+            "website": "http://www.nexmo.com",
+            "startDate": "2013-02-01",
+            "endDate": "2015-02-01",
+            "summary": "London, UK",
+            "highlights": [
+                "First QA engineer, as well as one of the first engineers overall",
+                "Writing and maintaining Test Suite in Python",
+                "Managing Remote Test Servers",
+                "Managing Jenkins and automating jobs",
+                "Scripting ad-hoc deployment and validation scripts in Python",
+                "Internal tools development in AngularJS",
+                "Creating Custom Reports from Raw Server Logs",
+                "Some DB administration, some live deploys and other misc activities at a small startup tech team"
+            ]
+        },
+        {
+            "company": "Skype (Microsoft)",
+            "position": "Software Development Engineer in Test",
+            "website": "http://www.skype.com",
+            "startDate": "2012-05-01",
+            "endDate": "2012-09-01",
+            "summary": "Part of the 'Wallet Team' - involved mostly in testing in internal payment APIs",
+            "highlights": [
+                "Adding tests to regression suite",
+                "Manual testing"
+            ]
+        },
+        {
+            "company": "UpWork",
+            "position": "Freelance",
+            "website": "https://www.upwork.com/freelancers/~01d0fdfecde7a49ddb",
+            "startDate": "2010-02-01",
+            "endDate": "2012-09-01",
+            "summary": "Several odd jobs",
+            "highlights": [
+                "Adding VPN to EC2",
+                "Converting NumPy script into VB script",
+                "Converting Maple formula sheets into HTML"
+            ]
+        },
+        {
+            "company": "WebCertain",
+            "position": "Copywriter",
+            "website": "https://www.upwork.com/freelancers/~01d0fdfecde7a49ddb",
+            "startDate": "2006-02-01",
+            "endDate": "2007-09-01",
+            "summary": "York, UK",
+            "highlights": [
+                "Executing SEO strategy for Russian markets",
+                "Helping with English->Russian translations",
+                "Helping with PPC campaigns in Russian"
+            ]
+        }
+    ],
+    "volunteer": [
+        {
+            "organization": "<ORGANIZATION_NAME>",
+            "position": "<POSITION>",
+            "website": "<WEBSITE>",
+            "startDate": "<START_DATE>",
+            "endDate": "<END_DATE>",
+            "summary": "<SUMMARY>",
+            "highlights": [
+                "<HIGHTLIGHT_1>",
+                "<HIGHTLIGHT_2>",
+                "<HIGHTLIGHT_3>"
+            ]
+        }
+    ],
+    "education": [
+        {
+            "institution": "University of York",
+            "area": "BSc Mathematics",
+            "studyType": "",
+            "startDate": "2005-10-01",
+            "endDate": "2008-06-01",
+            "gpa": "2:2",
+            "summary": "York, UK",
+            "courses": [
+                "Algebra",
+                "Analysis",
+                "Applied Mathematics",
+                "Calculus",
+                "Complex Analysis",
+                "Computing Foundations",
+                "Differential Equations",
+                "Fourier Series",
+                "Group Theory",
+                "Mechanics",
+                "Number Theory",
+                "Probability",
+                "Statistics"
+            ]
+        }
+    ],
+    "awards": [
+        {
+            "title": "Developer Certification for Apache Spark",
+            "date": "March 2016",
+            "awarder": "O'Reilly Media License 1.x-0453",
+            "summary": "Official Certification for Apache Spark"
+        }
+    ],
+    "projects": [
+        {
+            "name": "<PUBLICATION_NAME>",
+            "publisher": "<PUBLISHER>",
+            "category": "<CATEGORY>",
+            "releaseDate": "<RELEASE_DATE>",
+            "website": "<WEBSITE>",
+            "summary": "<SUMMARY>",
+            "image": {
+                "modal": "<MODAL_IMAGE>",
+                "thumb": "<THUMBNAIL_IMAGE>"
+            },
+            "keywords": [
+                "<KEYWORD_1>",
+                "<KEYWORD_2>",
+                "<KEYWORD_3>"
+            ]
+        }
+    ],
+    "skills": [
+        {
+            "title": "Programming Languages",
+            "description": [
+                "Since age 10 was programming as a hobby (starting QBasic)",
+                "Coding professionally at 24"
+            ],
+            "skillDetails": [
+                {
+                    "name": "Python",
+                    "level": "90",
+                    "keywords": [
+                        "NumPy",
+                        "SciPy",
+                        "Flask"
+                    ]
+                },
+                {
+                    "name": "JavaScript",
+                    "level": "65",
+                    "keywords": [
+                    ]
+                },
+                {
+                    "name": "Scala",
+                    "level": "50",
+                    "keywords": [
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "Software Engineering",
+            "description": [
+                "Worked in a start-up and dealt with almost every aspect of Software Infrastructure"
+            ],
+            "skillDetails": [
+                {
+                    "name": "Linux",
+                    "level": "80",
+                    "keywords": []
+                },
+                {
+                    "name": "Jenkins",
+                    "level": "80",
+                    "keywords": []
+                },
+                {
+                    "name": "AWS",
+                    "level": "75",
+                    "keywords": []
+                },
+                {
+                    "name": "MongoDB",
+                    "level": "70",
+                    "keywords": []
+                },
+                {
+                    "name": "Docker",
+                    "level": "65",
+                    "keywords": []
+                }
+            ]
+        },
+        {
+            "title": "Data Engineering",
+            "description": [
+                "Worked both on POC projects as well as procution projects"
+            ],
+            "skillDetails": [
+                {
+                    "name": "Apache Spark",
+                    "level": "90",
+                    "keywords": []
+                },
+                {
+                    "name": "Hadoop (MapR, CDH, HDP)",
+                    "level": "70",
+                    "keywords": []
+                },
+                {
+                    "name": "AWS EMR",
+                    "level": "75",
+                    "keywords": []
+                },
+                {
+                    "name": "HBase",
+                    "level": "60",
+                    "keywords": []
+                }
+            ]
+        }
+    ],
+    "languages": [
+        {
+            "name": "English",
+            "level": "Full professional proficiency"
+        },
+        {
+            "name": "Russian",
+            "level": "Native or bilingual proficiency"
+        },
+        {
+            "name": "Estonian",
+            "level": "Elementary proficiency"
+        },
+        {
+            "name": "German",
+            "level": "Elementary proficiency"
+        }
+    ],
+    "interests": [
+        {
+            "name": "Machine Learning",
+            "keywords": [
+                "AI",
+                "AGI"
+            ]
+        },
+        {
+            "name": "Start-ups",
+            "keywords": []
+        },
+        {
+            "name": "Telecommunications",
+            "keywords": []
+        }
+    ],
+    "references": [
+        {
+            "name": "Shane Lewin",
+            "position": "Vice President of Product",
+            "company": "Lumiata",
+            "reference": "Anton lead the development of our learning framework at Lumiata. The learning framework was critical to the company's success. Our agility and our ability to scale to new customers and markets all depended on the speed and effectiveness with which we could train, optimize and measure new models. IT was challenging project, operating over massive amounts of data on diverse data sets. Anton lead development for the measurement framework, and it was always in good hands. He was effective across all stages, from planning to development to evaluation. I came to rely on him both for the quality of the output but also the accuracy of his estimates and the reliability with which he delivered results. He's also a pleasure to work with. I recommend Anton to anyone looking for a top notch engineer, and in particular for large-scale backend applications."
+        }
+    ]
+}
