@@ -71,9 +71,7 @@
             "endDate": "2017-12-01",
             "summary": "",
             "highlights": [
-                "We worked on the data management project, which involved",
-                "analyzing IOT data collected from the ships. Among my responsibilities",
-                "were data ingestion and several levels or ETL transformations. Technologies used were:",
+                "We worked on the data management project, which involved analyzing IOT data collected from the ships. Among my responsibilities were data ingestion and several levels or ETL transformations. Technologies used were:",
                 "- Microsoft Azure",
                 "- Hortonworks",
                 "- PySpark",
@@ -88,11 +86,8 @@
             "endDate": "2017-10-01",
             "summary": "London, UK",
             "highlights": [
-                "Limejump is an innovative energy management company. It uses proprietary",
-                "IOT devices to manage various electrical system (solar panels, batteries, etc.) ",
-                "among other operations. During my short stay at this company, I was involved ",
                 "in managing data, which was collected from the devices in real-time and brought ",
-                "to the AWS cloud. Among technologies used therewere:",
+                "Limejump is an innovative energy management company. It uses proprietary IOT devices to manage various electrical system (solar panels, batteries, etc.) among other operations. During my short stay at this company, I was involved to the AWS cloud. Among technologies used therewere:",
                 "- AWS (EMR, DynamoDB, EC2)",
                 "- PySpark with Spark Streaming",
                 "- Jupyter"
