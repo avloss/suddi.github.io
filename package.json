@@ -29,7 +29,7 @@
   },
   "scripts": {
     "bundle": "webpack -p --progress",
-    "deploy": "webpack -p --progress --config webpack.deploy.js",
+    "deploy": "firebase deploy",
     "lint": "eslint .",
     "prepush": "npm test",
     "security-check": "nsp check --output summary",

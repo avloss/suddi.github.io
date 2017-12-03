@@ -9,7 +9,8 @@
         "summary": [
             "Data Engineer, with background in Mathematics",
             "Interest in Machine Learning with Python",
-            "Worked in start-ups as well as larger companies"
+            "Worked in start-ups as well as larger companies",
+            "Certified Apache Spark Developer"
         ],
         "location": {
             "address": "<ADDRESS>",
@@ -62,6 +63,41 @@
         ]
     },
     "work": [
+        {
+            "company": "Rolls-Royse",
+            "position": "Senior Data Engineer",
+            "website": "http://www.lumiata.com",
+            "startDate": "2017-10-01",
+            "endDate": "2017-12-01",
+            "summary": "",
+            "highlights": [
+                "We worked on the data management project, which involved",
+                "analyzing IOT data collected from the ships. Among my responsibilities",
+                "were data ingestion and several levels or ETL transformations. Technologies used were:",
+                "- Microsoft Azure",
+                "- Hortonworks",
+                "- PySpark",
+                "- Jupyter"
+            ]
+        },
+        {
+            "company": "Limejump",
+            "position": "Lead Data Engineer",
+            "website": "http://www.limejump.com",
+            "startDate": "2017-08-01",
+            "endDate": "2017-10-01",
+            "summary": "London, UK",
+            "highlights": [
+                "Limejump is an innovative energy management company. It uses proprietary",
+                "IOT devices to manage various electrical system (solar panels, batteries, etc.) ",
+                "among other operations. During my short stay at this company, I was involved ",
+                "in managing data, which was collected from the devices in real-time and brought ",
+                "to the AWS cloud. Among technologies used therewere:",
+                "- AWS (EMR, DynamoDB, EC2)",
+                "- PySpark with Spark Streaming",
+                "- Jupyter"
+            ]
+        },
         {
             "company": "Lumiata",
             "position": "Data Engineer",
@@ -225,8 +261,8 @@
         {
             "title": "Programming Languages",
             "description": [
-                "Since age 10 was programming as a hobby (starting QBasic)",
-                "Coding professionally at 24"
+                "Coding since age 10 (QBasic, pascal)",
+                "Coding professionally since age 24"
             ],
             "skillDetails": [
                 {
@@ -235,7 +271,8 @@
                     "keywords": [
                         "NumPy",
                         "SciPy",
-                        "Flask"
+                        "Flask",
+                        "Jupyter"
                     ]
                 },
                 {
@@ -292,7 +329,7 @@
             ],
             "skillDetails": [
                 {
-                    "name": "Apache Spark",
+                    "name": "Apache Spark (Certified Developer)",
                     "level": "90",
                     "keywords": []
                 },
